@@ -1,0 +1,12 @@
+{
+  "scan_recent_file_hours": 24,
+  "large_file_threshold_mb": 500,
+  "delete_mode": "recycle_bin",
+  "enable_browser_cache_scan": false,
+  "enable_windows_temp_scan": true,
+  "enable_user_temp_scan": true,
+  "enable_large_file_scan": false,
+  "enable_log_file_scan": true,
+  "enable_dump_file_scan": true,
+  "log_dir": "%LOCALAPPDATA%\\DiskCleaner\\logs"
+}
